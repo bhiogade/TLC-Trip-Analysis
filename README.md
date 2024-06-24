@@ -25,20 +25,20 @@ Pandas and Numpy Operations: Advanced data manipulation and numerical operations
 
 Data Visualization:
 
-    Tableau Dashboards: The processed data is then visualized using Tableau to create interactive and insightful dashboards that effectively communicate the findings.
+ Tableau Dashboards: The processed data is then visualized using Tableau to create interactive and insightful dashboards that effectively communicate the findings.
 
 **Tools and Technologies**
 Programming Language:
 
-    Python: Utilized for data manipulation, cleaning, and advanced analytics.
+ Python: Utilized for data manipulation, cleaning, and advanced analytics.
 
 Visualization Tools:
 
-    Tableau: Employed to create comprehensive dashboards for data visualization, enabling interactive exploration of the data.
+ Tableau: Employed to create comprehensive dashboards for data visualization, enabling interactive exploration of the data.
 
 Diagramming Tools:
 
-    Draw.io: Used for creating process flow diagrams that illustrate the methodology and analytical processes.
+ Draw.io: Used for creating process flow diagrams that illustrate the methodology and analytical processes.
 
 Dataset Information
 Dataset Used:
@@ -47,7 +47,7 @@ TLC Trip Record Data: This extensive dataset includes records of yellow and gree
 For further details on the dataset, you can visit the following resources:
 
 NYC TLC Trip Record Data - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-Data Dictionary
+
 
 **Conclusion**
 
