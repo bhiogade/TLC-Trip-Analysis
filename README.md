@@ -28,6 +28,7 @@ Data Visualization:
  Tableau Dashboards: The processed data is then visualized using Tableau to create interactive and insightful dashboards that effectively communicate the findings.
 
 **Tools and Technologies**
+
 Programming Language:
 
  Python: Utilized for data manipulation, cleaning, and advanced analytics.
