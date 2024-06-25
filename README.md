@@ -1,7 +1,7 @@
 <h1>Project Overview</h1>
 
 **Introduction**
-This project focuses on performing comprehensive data analytics on Uber trip data. The objective is to utilize a variety of tools and technologies such as Python for programming, Pandas for data manipulation, draw.io for diagramming, and Tableau for data visualization. Through these tools, we aim to derive meaningful insights and trends from the NYC Taxi and Limousine Commission (TLC) dataset.
+This project focuses on performing comprehensive data analytics on trip data. The objective is to utilize a variety of tools and technologies such as Python for programming, Pandas for data manipulation, draw.io for diagramming, and Tableau for data visualization. Through these tools, we aim to derive meaningful insights and trends from the NYC Taxi and Limousine Commission (TLC) dataset.
 
 
 **Detailed Methodology**
